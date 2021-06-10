@@ -1,0 +1,65 @@
+C:\Users\Abdullah Meriç\source\repos\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Abdullah Meriç\source\repos\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Abdullah Meriç\source\repos\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Abdullah Meriç\source\repos\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\Abdullah Meriç\source\repos\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\Abdullah Meriç\source\repos\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Abdullah Meriç\source\repos\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Abdullah Meriç\source\repos\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Meriç\source\repos\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Abdullah Meriç\source\repos\Proje\Proje\obj\Debug\Proje.pdb
+G:\repos\Proje\Proje\bin\Debug\Proje.exe.config
+G:\repos\Proje\Proje\bin\Debug\Proje.exe
+G:\repos\Proje\Proje\bin\Debug\Proje.pdb
+G:\repos\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+G:\repos\Proje\Proje\obj\Debug\Proje.Form1.resources
+G:\repos\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+G:\repos\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+G:\repos\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+G:\repos\Proje\Proje\obj\Debug\Proje.exe
+G:\repos\Proje\Proje\obj\Debug\Proje.pdb
+E:\repos\Proje\Proje\bin\Debug\Proje.exe.config
+E:\repos\Proje\Proje\bin\Debug\Proje.exe
+E:\repos\Proje\Proje\bin\Debug\Proje.pdb
+E:\repos\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+E:\repos\Proje\Proje\obj\Debug\Proje.Form1.resources
+E:\repos\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+E:\repos\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+E:\repos\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+E:\repos\Proje\Proje\obj\Debug\Proje.exe
+E:\repos\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\Abdullah Meriç\Desktop\repos\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\Abdullah Meriç\Desktop\repos\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\Abdullah Meriç\Desktop\repos\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Abdullah Meriç\Desktop\repos\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Abdullah Meriç\Desktop\repos\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Meriç\Desktop\repos\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Abdullah Meriç\Desktop\repos\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\Abdullah Meriç\Desktop\repos\Yeni klasör\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Abdullah Meriç\Desktop\repos\Yeni klasör\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Abdullah Meriç\Desktop\repos\Yeni klasör\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Abdullah Meriç\Desktop\repos\Yeni klasör\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\Abdullah Meriç\Desktop\repos\Yeni klasör\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Abdullah Meriç\Desktop\repos\Yeni klasör\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Abdullah Meriç\Desktop\repos\Yeni klasör\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Meriç\Desktop\repos\Yeni klasör\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Abdullah Meriç\Desktop\repos\Yeni klasör\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\Abdullah Meriç\Desktop\repos\Yeni klasör\Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\Abdullah Meriç\Desktop\repos\Yeni klasör\Proje\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\Abdullah Meriç\Desktop\repos\Yeni klasör\Proje\Proje\obj\Debug\Proje.Form4.resources
+C:\Users\Abdullah Meriç\Desktop\repos\Yeni klasör\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\Abdullah Meriç\Desktop\repos\Yeni klasör\Proje\Proje\obj\Debug\Proje.Form5.resources
+C:\Users\EXCALIBUR\Downloads\Proje (1)\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\EXCALIBUR\Downloads\Proje (1)\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\EXCALIBUR\Downloads\Proje (1)\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\EXCALIBUR\Downloads\Proje (1)\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\EXCALIBUR\Downloads\Proje (1)\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\EXCALIBUR\Downloads\Proje (1)\Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\EXCALIBUR\Downloads\Proje (1)\Proje\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\EXCALIBUR\Downloads\Proje (1)\Proje\Proje\obj\Debug\Proje.Form4.resources
+C:\Users\EXCALIBUR\Downloads\Proje (1)\Proje\Proje\obj\Debug\Proje.Form5.resources
+C:\Users\EXCALIBUR\Downloads\Proje (1)\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\EXCALIBUR\Downloads\Proje (1)\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\Downloads\Proje (1)\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Downloads\Proje (1)\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\EXCALIBUR\Downloads\Proje (1)\Proje\Proje\obj\Debug\Proje.pdb
